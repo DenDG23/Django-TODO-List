@@ -10,7 +10,7 @@ After that you will see your tasks:\
 \
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/67323825/182841316-9c271acb-fdaf-409d-899f-a7113e963326.png">\
 \
-You can add task by clicking button "+". After that u will be able to create task, which should contains title. Additionaly you can write description and choose is task completed or not:\
+You can add task by clicking button "+". After that you will be able to create task, which should contains title. Additionaly you can write description and choose is task completed or not:\
 \
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/67323825/182841571-196591f0-166a-4cdf-9cfc-d33b62417e25.png">\
 \
