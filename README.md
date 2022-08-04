@@ -1,6 +1,6 @@
 # Django-TODO-List
 My TODO app on Django.\
-When you start this projectyou should log in or register in app.\
+When you start this project you should log in or register in app.\
 \
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/67323825/182841069-d6abfe05-d13d-41ac-b7d9-2093455560ca.png">\
 \
